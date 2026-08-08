@@ -2,7 +2,7 @@
 
 DFT benchmark of the Fe concentration gradient in water activation on Cr₂O₃(0001) surfaces — the first elementary step of steam oxidation of 9-12%Cr turbine steels.
 
-**Preprint**: DOI 10.5281/zenodo.[EN] (EN) / 10.5281/zenodo.[CN] (CN) — *link added at publication*
+**Preprint**: DOI 10.5281/zenodo.21847151 (EN) / 10.5281/zenodo.[CN] (CN)
 
 ## Summary
 
