@@ -1,0 +1,12 @@
+{
+ "E_bare": -168.375683,
+ "E_h2o_gas": -10.039496,
+ "E_mol_relaxed": -178.112406,
+ "E_diss_relaxed": -177.608477,
+ "E_ads_mol_eV": 0.3028,
+ "E_ads_diss_eV": 0.8067,
+ "conv": [
+  false,
+  false
+ ]
+}

@@ -1,0 +1,20 @@
+{
+ "pure": {
+  "E_ads_total": -184.2398492614638,
+  "E_ads_eV": -0.198,
+  "nsteps": 40,
+  "ok": true
+ },
+ "fe1": {
+  "E_ads_total": -181.5710687612937,
+  "E_ads_eV": -0.3693,
+  "nsteps": 21,
+  "ok": true
+ },
+ "fe2": {
+  "E_ads_total": -179.9864144073553,
+  "E_ads_eV": 0.1766,
+  "nsteps": 40,
+  "ok": true
+ }
+}
